@@ -34,15 +34,8 @@ I used a histogram to visually understand how student grades are distributed.
 ✅ Conclusion
 
 From this analysis, it’s clear that student performance is influenced by multiple factors. Study time alone doesn’t strongly determine the final result, so other aspects also play an important role.
-pre requsites
-python ide
-install python latest version
 🚀 How to Run
 pip install pandas matplotlib
 python your_file_name.py
-
-author
-Ankit Sharma
 👨‍💻 Author
-
 Ankit Sharma
